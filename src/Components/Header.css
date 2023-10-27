@@ -1,0 +1,32 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 1rem;
+  gap: 3rem;
+}
+
+.logo-div {
+  max-width: 10rem;
+}
+.logo {
+  width: 100%;
+}
+.nav ul {
+  display: flex;
+  list-style: none;
+  gap: 2.5rem;
+}
+
+.nav-item a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.icons-div {
+  display: flex;
+  gap: 1rem;
+}
+.icon {
+  font-size: 120%;
+}
