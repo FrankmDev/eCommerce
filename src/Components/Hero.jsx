@@ -7,11 +7,11 @@ const Hero = () => {
       <div className="hero-text">
         <h1>Hello! What would you like to buy?</h1>
         <p>
-          Search between millions of products from hundreds different <br></br>
-          online shops. Our price comparison service helps you find the
-          <br></br> best deal on the market.
+          Search between millions of products from hundreds different online
+          shops. Our price comparison service helps you find the best deal on
+          the market.
         </p>
-        <button className="cta-btn">Shop now</button>
+        <button className="button">Hover me</button>
       </div>
       <div className="hero-img">
         <img src={img} alt="Hero Image" className="img" />
